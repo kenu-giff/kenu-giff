@@ -1,5 +1,5 @@
 <font size=3># Hello, I'm Kenean 👋<br><br></font><font size=2>I'm a tech enthusiast with a passion for exploring how technology, especially programming and AI, can solve real-world problems. 
-- 🔭 I’m currently learning back-end development, and data analysis<br>- 🌱 I’m diving deeper into AI & Machine Learning.<br>- 👯 I’m looking to collaborate on projects related to web development, and game development<br>- 📫 Reach me at kenumb2020@gmail.com<br>- ⚡️ Fun fact: "I consider ‘404’ a challenge, not an error<br></font>
+ 🌱 I’m diving deeper into AI & Machine Learning.<br>- 👯 I’m looking to collaborate on projects related to web development, and game development<br>- 📫 Reach me at kenumb2020@gmail.com<br>- ⚡️ Fun fact: "I consider ‘404’ a challenge, not an error<br></font>
 
 
 ## 🌐 Socials:
